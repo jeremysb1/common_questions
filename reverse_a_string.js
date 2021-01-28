@@ -24,4 +24,4 @@ function reverseString2(str) {
 
 //using ES6 arrow functions
 
-const reverse3 = str => str.spli('').reverse().join('');
+const reverse3 = str => str.split('').reverse().join('');
