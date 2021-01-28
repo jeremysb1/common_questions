@@ -16,3 +16,12 @@ function reverseString(str) {
 	return backwards.join('');
 }
 
+//using built in methods
+
+function reverseString2(str) {
+  return str.split('').reverse().join('');
+}
+
+//using ES6 arrow functions
+
+const reverse3 = str => str.spli('').reverse().join('');
