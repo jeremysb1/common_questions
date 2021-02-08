@@ -1,3 +1,3 @@
-# common_questions
+# Common Interview Questions
 
-Practicing some common interview questions. The answers are implemented in JavaScript, but will later be implemented in Python and C++.
+These are answers to common interview questions implemented in JavaScript.
